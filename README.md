@@ -1,4 +1,4 @@
-IRS - Information Retrieval Systems
+IRS - Information Retrieval Systems \n
 LAMP - Linux Apache MySQL PHP
 CC - Cloud Computing
 THOC - Theory of Computation 
