@@ -1,6 +1,6 @@
-IRS - Information Retrieval Systems \n
-LAMP - Linux Apache MySQL PHP
-CC - Cloud Computing
-THOC - Theory of Computation 
-RS - Remote Sensing
-FM - Finanacial Management
+IRS - Information Retrieval Systems<br>
+LAMP - Linux Apache MySQL PHP<br>
+CC - Cloud Computing<br>
+THOC - Theory of Computation <br>
+RS - Remote Sensing<br>
+FM - Finanacial Management<br>
